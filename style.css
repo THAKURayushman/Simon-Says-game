@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+.wrong{
+    background-color: red;
+}
+.btn{
+    height: 5cm;
+    width: 5cm;
+    border: 1mm solid black;
+    border-radius: 20%;
+    margin: 3mm;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.flash{
+    background-color: white;
+}
+.click{
+    background-color: orchid;
+}
